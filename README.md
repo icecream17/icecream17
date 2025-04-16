@@ -25,4 +25,4 @@ I made many projects in HTML/JS/CSS + TS and to a lesser extent Python and Rust.
 
 * js.do/celiasnt
 * lichess, chess.com > `StevenEmily` (originally shared with my sister but now it's just mine)
-* discord > `_icecream17`
+* discord > `icecream17_`
